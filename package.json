@@ -1,0 +1,20 @@
+{
+  "name": "hexlet-hello-world",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "test task for hexlet frontend course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsyaYeromina/hexlet-js.git"
+  },
+  "author": "Anastasiia Yeromina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsyaYeromina/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/AsyaYeromina/hexlet-js#readme"
+}
